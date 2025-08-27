@@ -1,12 +1,12 @@
 import time
 import mysql.connector as sqltor
-from prettytable import PrettyTable
+from prettytable import PrettyTable\
 
 def opening_frame():
     print("**************************************")
     time.sleep(0.6)
     print("* Welcome to NewspaperPal! *")
-    time.sleep(0.6)
+    time.sleep(0.7)
     print("* Your Source for Daily News *")
     time.sleep(0.6)
     print("**************************************")
