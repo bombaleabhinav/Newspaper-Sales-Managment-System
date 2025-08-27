@@ -6,7 +6,7 @@ def opening_frame():
     print("**************************************")
     time.sleep(0.6)
     print("* Welcome to NewspaperPal! *")
-    time.sleep(0.7)
+    time.sleep(0.6)
     print("* Your Source for Daily News *")
     time.sleep(0.6)
     print("**************************************")
